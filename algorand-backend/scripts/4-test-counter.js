@@ -13,7 +13,7 @@ client.getApplicationByID(index).do();
 // Application ID 
 // let index = "https://bug-free-telegram-gv66x99v67r294w4.github.dev/"; 
 //Make sure you change it to yours. 
-let index = "https://bug-free-telegram-gv66x99v67r294w4.github.dev/";
+let index = "HNFMCYEO6XABW7YRF7FFWXGW4ZCSQ5QHSLJ2S5CUJUJBWDBFVZOMEN3YBY";
 let myaccount = algosdk.mnemonicToSecretKey("describe emotion giraffe sand firm retire lyrics receive gym hood artwork street stock oak twelve whip include know intact place range pluck pig absent income"); 
 let sender = myaccount.addr;
 
